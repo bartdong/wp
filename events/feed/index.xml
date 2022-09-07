@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>活动计划 &#8211; Bart Site</title>
+	<atom:link href="https://bartdong.github.io/wp/events/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bartdong.github.io/wp/</link>
+	<description>又一个WordPress站点</description>
+	<lastBuildDate>Wed, 07 Sep 2022 08:03:36 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>TOC会议</title>
+		<link>https://bartdong.github.io/wp/event/toc%e4%bc%9a%e8%ae%ae/</link>
+		
+		<dc:creator><![CDATA[bart_adm]]></dc:creator>
+		<pubDate>Wed, 07 Sep 2022 10:00:00 +0000</pubDate>
+				<guid isPermaLink="false">https://bartdong.github.io/wp/?post_type=tribe_events&#038;p=11</guid>
+
+					<description><![CDATA[123]]></description>
+										<content:encoded><![CDATA[<p>123</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
