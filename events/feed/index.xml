@@ -12,7 +12,7 @@
 	<atom:link href="https://bartdong.github.io/wp/events/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bartdong.github.io/wp/</link>
 	<description>又一个WordPress站点</description>
-	<lastBuildDate>Wed, 07 Sep 2022 08:03:36 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 07 Sep 2022 09:28:29 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>TOC会议</title>
-		<link>https://bartdong.github.io/wp/event/toc%e4%bc%9a%e8%ae%ae/</link>
+		<link>https://bartdong.github.io/wp/event/toc-meeting/</link>
 		
 		<dc:creator><![CDATA[bart_adm]]></dc:creator>
 		<pubDate>Wed, 07 Sep 2022 10:00:00 +0000</pubDate>
